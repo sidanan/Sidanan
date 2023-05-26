@@ -3,6 +3,8 @@ package arraydemos23friam;
 
 
 public class Student {
+ // comment is added 
+ // thankyou so much
     private String sId;
     private String sName;
 

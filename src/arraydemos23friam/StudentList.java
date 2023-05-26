@@ -8,7 +8,7 @@ public class StudentList {
         
         Student s1 = new Student("s1","ronak");
         Student[] studentList = new Student[3];
-        
+        email id = sidanan@shernet.sheridancollege.ca
         studentList[0]=s1;
         studentList[1]=new Student("s2","abc");
         studentList[2]=new Student("s3","def");
