@@ -6,6 +6,7 @@ public class Student {
  // comment is added 
  // thankyou so much
     // one more comment
+    //Part_time_students
     private String sId;
     private String sName;
 
